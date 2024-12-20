@@ -1,0 +1,4 @@
+baseURL = "https://db.daviddiener.de/"
+languageCode = "en-us"
+theme = "PaperModX"
+title = "Diener Brothers"
