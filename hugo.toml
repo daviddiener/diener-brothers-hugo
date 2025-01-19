@@ -48,7 +48,7 @@ Content = "We are developing a game!"
 
 [[params.socialIcons]]
 name = "twitter-simple"
-url = "https://twitter.com/diener_david_"
+url = "https://x.com/dienerbrothers"
 
 [params.cover]
 hidden = false
