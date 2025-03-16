@@ -99,7 +99,8 @@
         <li class="mt-4 inline-block lg:hidden">
           <a
             class="btn btn-outline-primary btn-sm"
-            href="{{ site.Params.navigation_button.link | relLangURL }}">
+            href="{{ site.Params.navigation_button.link | relLangURL }}"
+            target="_blank">
             {{ site.Params.navigation_button.label }}
           </a>
         </li>
@@ -130,12 +131,12 @@
       {{ partial "components/language-switcher" (dict "Context" . "Class" "mr-5 pl-2 py-1 dark:bg-darkmode-light rounded") }}
       {{ partial "components/theme-switcher" (dict "Class" "mr-5") }}
 
-
       <!-- navigation btn -->
       {{ if site.Params.navigation_button.enable }}
         <a
           href="{{ site.Params.navigation_button.link | relLangURL }}"
-          class="btn btn-outline-primary btn-sm hidden lg:inline-block">
+          class="btn btn-outline-primary btn-sm hidden lg:inline-block"
+          target="_blank">
           {{ site.Params.navigation_button.label }}
         </a>
       {{ end }}

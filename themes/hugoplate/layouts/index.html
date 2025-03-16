@@ -14,13 +14,14 @@
             {{ with .button }}
               {{ if .enable }}
                 <a
-                  class="btn btn-primary"
+                  {{/*  class="btn btn-primary"  */}}
                   href="{{ .link | absURL }}"
                   {{ if strings.HasPrefix .link `http` }}
                     target="_blank" rel="noopener"
                   {{ end }}>
-                  {{ .label }}
-                  <i class="fa fa-arrow-right pl-2"></i>
+                  {{/*  {{ .label }}  */}}
+                  <img src="images/steam_wishlist_crop.png" class="center"/>
+                  {{/*  <i class="fa fa-arrow-right pl-2"></i>  */}}
                 </a>
               {{ end }}
             {{ end }}
@@ -65,9 +66,12 @@
             </ul>
             {{ with .button }}
               {{ if .enable }}
-                <a class="btn btn-primary mt-6" href="{{ .link | absURL }}">
-                  {{ .label }}
-                  <i class="fa fa-arrow-right pl-2"></i>
+                <a 
+                  {{/*  class="btn btn-primary mt-6"   */}}
+                  href="{{ .link | absURL }}">
+                  {{/*  {{ .label }}  */}}
+                  <img src="images/steam_wishlist_crop.png" class="center"/>
+                  {{/*  <i class="fa fa-arrow-right pl-2"></i>  */}}
                 </a>
               {{ end }}
             {{ end }}

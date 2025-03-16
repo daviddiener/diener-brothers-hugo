@@ -10,33 +10,33 @@ banner:
     link: "https://store.steampowered.com/"
 
 # Features
-# features:
-#   - title: "What's Included in Hugoplate"
-#     image: "/images/service-1.png"
-#     content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
-#     bulletpoints:
-#       - "10+ Pre-build pages"
-#       - "95+ Google Pagespeed Score"
-#       - "Build with Hugo and TailwindCSS for easy and customizable styling"
-#       - "Fully responsive on all devices"
-#       - "SEO-optimized for better search engine rankings"
-#       - "**Open-source and free** for personal and commercial use"
-#     button:
-#       enable: false
-#       label: "Get Started Now"
-#       link: "#"
+features:
+  - title: "Shape the World, Command Your Destiny"
+    image: "/images/service-1.png"
+    content: "Choose your faction, wield divine abilities, and watch as your civilization thrives—or falls—based on your actions. Will you be a benevolent god, or will you rule with an iron fist?"
+    bulletpoints:
+      - "**God Simulation & RTS:** Shape the world and command your followers."
+      - "**Faction Choices:** Play as different civilizations, each with unique abilities."
+      - "**Strategic Depth:** Balance resources, power, and faith to achieve victory."
+      - "**Divine Abilities:** Use miracles and disasters to control the battlefield."
 
-#   - title: "Discover the Key Features Of Hugo"
-#     image: "/images/service-2.png"
-#     content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-#     bulletpoints:
-#       - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-#       - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-#       - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
-#     button:
-#       enable: true
-#       label: "Get Started Now"
-#       link: "https://github.com/zeon-studio/hugoplate"
+    button:
+      enable: false
+      label: "Get Started Now"
+      link: "#"
+
+  - title: "Discover the Key Features Of Grey"
+    image: "/images/service-2.png"
+    content: "In **Grey**, you take on the role of a divine force guiding a civilization to greatness. Control the world with your godly hand, shape the land, influence your people, and engage in strategic battles. Inspired by classics like *Black & White* and *Battle for Middle-earth*, Grey combines god simulation with real-time strategy to create a unique and immersive experience."
+    bulletpoints:
+       - "**Real-Time Strategy & God Powers:** Control, shape, and guide your people."
+       - "**Rich Faction Variety:** Unique abilities and cultural traits for each civilization."
+       - "**Engaging World-Building:** Shape landscapes and influence civilizations dynamically."
+       - "**Mythical & Strategic Battles:** Balance power, faith, and divine intervention."
+    button:
+      enable: true
+      label: "Wishlist on Steam"
+      link: "https://store.steampowered.com/"
 
 #   - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
 #     image: "/images/service-3.png"
