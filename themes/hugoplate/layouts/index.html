@@ -20,7 +20,10 @@
                     target="_blank" rel="noopener"
                   {{ end }}>
                   {{/*  {{ .label }}  */}}
-                  <img src="images/steam_wishlist_crop.png" class="center"/>
+                  {{ $img := resources.Get "images/steam_wishlist_crop.png" }}
+                  {{ if $img }}
+                    <img src="{{ $img.Permalink }}" class="center" />
+                  {{ end }}
                   {{/*  <i class="fa fa-arrow-right pl-2"></i>  */}}
                 </a>
               {{ end }}
@@ -70,7 +73,10 @@
                   {{/*  class="btn btn-primary mt-6"   */}}
                   href="{{ .link | absURL }}">
                   {{/*  {{ .label }}  */}}
-                  <img src="images/steam_wishlist_crop.png" class="center"/>
+                  {{ $img := resources.Get "images/steam_wishlist_crop.png" }}
+                  {{ if $img }}
+                    <img src="{{ $img.Permalink }}" class="center" />
+                  {{ end }}
                   {{/*  <i class="fa fa-arrow-right pl-2"></i>  */}}
                 </a>
               {{ end }}
