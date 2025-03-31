@@ -3,7 +3,7 @@
 banner:
   title: "A World at Your Fingertips" #, A Legacy in Your Hands
   content: "At Diener Brothers, we bring worlds to life. As passionate game developers, we create immersive real-time strategy experiences where players shape civilizations, wield divine power, and forge their own legends. Our upcoming title, Grey, blends god simulation with strategic depth, inspired by classics like Black & White and Battle for Middle-earth."
-  image: "/images/banner_150.png"
+  image: "/images/banner_2_fade_200.png"
   button:
     enable: true
     label: "Wishlist On Steam"
