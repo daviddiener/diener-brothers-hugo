@@ -52,7 +52,7 @@ name = "Elements"
 url = "/elements"
 weight = 2
 
-# [[footer]]
-# name = "Privacy Policy"
-# url = "/privacy-policy"
-# weight = 3
+[[footer]]
+name = "Impressum"
+url = "/impressum"
+weight = 3
