@@ -46,13 +46,13 @@
           <div
             class="mb:md-0 {{ if not (modBool $i 2) }}
               md:order-2
-            {{ end }} md:col-5 mb-6">
-            {{ partial "image" (dict "Src" .image "Alt" "feature image" "DisplayXL" "520x" "DisplayLG" "425x" "DisplayMD" "360x") }}
+            {{ end }} sm:col-12 md:col-12 lg:col-6 mb-6 md:mb-6">
+            {{ partial "image" (dict "Src" .image "Alt" "feature image" "DisplayXL" "730x" "DisplayLG" "630x" "DisplayMD" "384x") }}
           </div>
           <div
             class="{{ if not (modBool $i 2) }}
               md:order-1
-            {{ end }} md:col-7 lg:col-6">
+            {{ end }} sm:col-12 md:col-12 lg:col-6 mb-6 md:mb-6">
             <h2 class="mb-4">
               {{ .title | markdownify }}
             </h2>

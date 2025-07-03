@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: "Shape the World, Command Your Destiny"
-    image: "/images/service-1.png"
+    image: "/images/city.png"
     content: "Choose your faction, wield divine abilities, and watch as your civilization thrives—or falls—based on your actions. Will you be a benevolent god, or will you rule with an iron fist?"
     bulletpoints:
       - "**God Simulation & RTS:** Shape the world and command your followers."
@@ -26,7 +26,7 @@ features:
       link: "#"
 
   - title: "Discover the Key Features Of Grey"
-    image: "/images/service-2.png"
+    image: "/images/hand.png"
     content: "In **Grey**, you take on the role of a divine force guiding a civilization to greatness. Control the world with your godly hand, shape the land, influence your people, and engage in strategic battles. Inspired by classics like *Black & White* and *Battle for Middle-earth*, Grey combines god simulation with real-time strategy to create a unique and immersive experience."
     bulletpoints:
        - "**Real-Time Strategy & God Powers:** Control, shape, and guide your people."
