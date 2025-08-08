@@ -1,0 +1,13 @@
+<ul class="social-icons">
+  {{ range site.Data.social.main }}
+    <li>
+      <a
+        target="_blank"
+        aria-label="{{ .name }}"
+        rel="nofollow noopener"
+        href="{{ .link | safeURL }}">
+        <i class="{{ .icon }}"></i>
+      </a>
+    </li>
+  {{ end }}
+</ul>

@@ -151,4 +151,32 @@
     {{ end }}
   {{ end }}
   <!-- /Testimonials -->
+
+  <!-- Blog Posts -->
+  <section class="section bg-gradient">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 mb-12 text-center">
+          <h2 class="mb-4">Latest Development Updates</h2>
+          <p class="text-lg">Follow our journey creating Grey and dive into the world of game development</p>
+        </div>
+      </div>
+      <div class="row">
+        {{ range first 3 (where site.RegularPages "Type" "blog") }}
+          <div class="lg:col-4 md:col-6 mb-8">
+            {{ partial "components/blog-card" . }}
+          </div>
+        {{ end }}
+      </div>
+      <div class="row">
+        <div class="col-12 text-center">
+          <a href="{{ `blog` | relLangURL }}" class="btn btn-primary">
+            View All Posts
+            <i class="fa fa-arrow-right pl-2"></i>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- /Blog Posts -->
 {{ end }}

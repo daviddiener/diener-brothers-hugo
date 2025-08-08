@@ -1,24 +1,29 @@
 ############# English navigation ##############
 
 # main menu
-# [[main]]
-# name = "Home"
-# url = "/"
-# weight = 1
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Blog"
+url = "/blog"
+weight = 2
 
 # [[main]]
 # name = "Grey"
 # url = "/grey"
-# weight = 2
+# weight = 3
 
 # [[main]]
-# weight = 3
+# weight = 4
 # name = "Pages"
 
 # [[main]]
 # parent = "Pages"
-# name = "Blog"
-# url = "/blog"
+# name = "Contact"
+# url = "/contact"
 
 # [[main]]
 # parent = "Pages"
