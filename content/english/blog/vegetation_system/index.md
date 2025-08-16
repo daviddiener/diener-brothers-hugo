@@ -3,7 +3,7 @@ title: "Building a High-Performance Vegetation System"
 meta_title: "Vegetation System in Grey"
 description: "Deep dive into creating a unified vegetation system supporting both organic grass generation and structured crop fields, with real-time building integration and performance optimization."
 date: 2025-08-08T14:30:00Z
-image: "/images/vegetation-system.png"
+image: "title.png"
 categories: ["Development", "Game Design"]
 author: "Diener Brothers"
 tags: ["Grey", "Game Mechanics", "Vegetation"]
@@ -128,7 +128,6 @@ The final system delivers:
 
 {{< video src="2025-08-08_vegetationSystem.mp4" type="video/webm" preload="auto" >}}
 
-
 ## What's Next
 
 Future enhancements we're considering:
@@ -142,3 +141,5 @@ The foundation we've built makes these additions straightforward while maintaini
 Stay tuned, and remember to [wishlist Grey on Steam](https://store.steampowered.com/) for the latest updates!
 
 *David & Paul*
+
+{{< x user="dienerbrothers" id="1953942963278721396" >}}
