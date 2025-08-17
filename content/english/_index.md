@@ -26,12 +26,11 @@ features:
 
   - title: "Iconic RTS Gameplay, Reimagined"
     image: "/images/city.png"
-    content: "We're building on the shoulders of giants. **Grey** inherits its soul from the strategic layer of games like *Battle for Middle-earth* and the hands-on fun of *Black & White*. We've focused on core RTS pillars: meaningful unit variety, tactical combat, and strategic resource management."
+    content: "**Grey** combines time-tested RTS fundamentals with breakthrough interaction technology. Experience familiar strategic gameplay - resource management, army building, tactical combat - enhanced by our revolutionary divine hand system. We've taken the best ideas from strategy gaming's golden age and rebuilt them with modern performance and accessibility."
     bulletpoints:
-       - "**God Hand Reimagined:** A modern take on direct, divine intervention."
-       - "**Tactical Military System:** Command armies with formations and abilities."
-       - "**Classic RTS Loop:** Gather, build, and conquer in a familiar yet fresh way."
-       - "**Physics-Driven Combat:** Battles where terrain and collisions truly matter."
+      - "**Core RTS Excellence:** Resource gathering, base building, and tactical warfare that strategy fans expect"
+      - "**Advanced Performance:** Support for hundreds of units"
+      - "**Cross-Generational Appeal:** Deep enough for veterans, accessible enough for newcomers"
     button:
       enable: false
       label: ""

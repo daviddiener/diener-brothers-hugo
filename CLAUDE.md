@@ -46,3 +46,86 @@ This is a Hugo-based website using the Hugoplate theme. Key commands:
 - Tailwind CSS compilation integrated
 - Image processing with multiple format generation
 - Template metrics enabled for optimization insights
+
+## Content Writing Style Guide
+
+### Our WHY: The Foundation of Everything We Write
+
+**WHY we're building Grey:**
+- We want to bring back the best features of old classics (Black & White, Battle for Middle-earth)
+- We love gameplay over looks - substance matters more than flashy graphics
+- We want to mix known features and create something new and exciting
+
+This WHY should underpin all content decisions and messaging.
+
+### Writing Tone & Voice
+
+**Target Audience:** Both indie developers and potential players
+**Tone:** Down-to-earth, relatable, and passionate about game development
+**Voice:** Professional but approachable - avoid overly personal anecdotes
+
+### Blog Post Structure & Style
+
+**Opening Hook Strategy:**
+- Start with concrete problems or challenges (e.g., "3 FPS with 200 units")
+- Frame technical posts as development breakthroughs/solutions
+- Connect technical challenges to player experience impact
+
+**Content Balance:**
+- Keep technical depth but make it accessible through analogies
+- Explain the "why" behind technical decisions, not just the "how"
+- Include visual storytelling with existing GIFs/videos
+- Focus on what breakthroughs enable for gameplay
+
+**Writing Guidelines:**
+- Use active voice and clear, direct language
+- Break up technical sections with accessible explanations
+- Include concrete examples and relatable comparisons
+- End with excitement about what this means for Grey's future
+- Maintain professional enthusiasm without over-dramatizing
+
+**Structure Template:**
+1. **Problem/Challenge Hook** - Real development obstacle
+2. **Context** - Why this matters for the game experience
+3. **Solution Journey** - How we solved it (accessible technical explanation)
+4. **Implementation Details** - Technical depth with clear explanations
+5. **Impact & Future** - What this enables for players and Grey's development
+
+### Content Principles
+
+- **Transparency:** Share real development challenges and solutions
+- **Accessibility:** Make technical content understandable to non-developers
+- **Player Focus:** Always connect technical achievements to player experience
+- **Passion:** Show genuine excitement about game development and Grey's potential
+- **Authenticity:** Be honest about struggles and breakthroughs without over-sharing personal details
+
+### Commercial Appeal Guidelines
+
+**Market Positioning:**
+- Balance nostalgia with innovation - we're not just "bringing back old games" but creating something genuinely new
+- Frame problems as universal RTS frustrations, not just "modern games bad"
+- Appeal to both veteran strategy fans AND newcomers to the genre
+- Emphasize Grey's innovations alongside classic wisdom
+
+**Audience Expansion:**
+- Include younger gamers who might not know Black & White but understand tedious menu navigation
+- Focus on universal gameplay problems (boring job assignment, static worlds) rather than generational critiques
+- Position Grey as accessible to newcomers while deep enough for veterans
+- Avoid language that might feel exclusionary to broader gaming audiences
+
+**Innovation Emphasis:**
+- Highlight what makes Grey unique (divine hand physics, vegetation systems, intuitive job assignment)
+- Balance "classic inspiration" with "modern innovation"
+- Show technical achievements as enabling better gameplay, not just solving old problems
+- Position Grey as evolution, not just restoration
+
+**Messaging Balance:**
+- 40% innovation and what makes Grey special
+- 30% solving universal RTS problems 
+- 20% classic game inspiration
+- 10% anti-modern gaming sentiment (be careful not to alienate)
+
+**Target Expansion:**
+- Primary: Strategy game enthusiasts (all ages)
+- Secondary: Gamers frustrated with tedious mechanics in any genre
+- Tertiary: Players interested in innovative interaction systems
